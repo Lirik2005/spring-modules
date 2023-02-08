@@ -1,0 +1,9 @@
+package com.lirik.listener.entity;
+
+public enum AccessType {
+
+    CREATE,
+    UPDATE,
+    READ,
+    DELETE
+}
